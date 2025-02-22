@@ -64,7 +64,15 @@ export const experiencesData = [
     description:
       "Developed robust finance management system in startup using Core PHP, Node.js, Express, MongoDB, MySQL, Redis, and external APIs. Implemented OAuth, JWT for secure access, and optimized data storage with advanced normalization techniques. Designed REST APIs, integrated GraphQL, and ensured collaborative development with GIT version control. Demonstrated expertise in dynamic startup environment.",
     icon: React.createElement(FaReact),
-    date: "2023 April - present",
+    date: "2023 April - 2024 December",
+  },
+  {
+    title: "Backend Developer - Wizards",
+    location: "Dubai, UAE",
+    description:
+      "Building backend systems for an investment banking firm to visualize data, aiding the management team in decision-making. Implementing lead tracking and management features using TypeScript, with a focus on scalable and efficient solutions.",
+    icon: React.createElement(FaReact),
+    date: "2024 December - present",
   }
 ] as const;
 
