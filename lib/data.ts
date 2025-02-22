@@ -67,7 +67,7 @@ export const experiencesData = [
     date: "2023 April - 2024 December",
   },
   {
-    title: "Backend Developer - Wizards",
+    title: "Full Stack Developer - Wizards",
     location: "Dubai, UAE",
     description:
       "Building backend systems for an investment banking firm to visualize data, aiding the management team in decision-making. Implementing lead tracking and management features using TypeScript, with a focus on scalable and efficient solutions.",
